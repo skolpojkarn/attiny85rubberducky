@@ -9,7 +9,7 @@ Starts cmd in a small window but also hides the cmd by scrolling it down the scr
 ### Tested on:
 **OS**: Windows 10 Pro<br>
 **User**: Admin Priviliged<br>
-**Hardware**: ATtiny85 (Chinese)
+**Hardware**: ATtiny85
 
 ### Requirements:
 **Password Grabber**: https://webhook.site/ or any other request reflector of your choice<br>

@@ -1,5 +1,5 @@
-# DigiSpark Attiny85 poor man's RubberDucky
-The Attiny85 Rubber Ducky acts like a keyboard when plugged into any unlocked device, allowing it to perform various programmed tasks. The Rubber Ducky injects keystrokes to the host machine in order to perform malicious tasks.
+# DigiSpark Attiny85 RubberDucky
+The Attiny85 Rubber Ducky acts like a keyboard when plugged into any unlocked device, allowing it to perform various tasks through programmed malicious payloads. The Rubber Ducky injects keystrokes to the host machine when inserted through a USB port.
 
 ## Getting Started
 A detailed setup, installation and instruction guide on setting up development environment for Attiny85 can be found at [Maker.pro](https://maker.pro/arduino/projects/how-to-build-a-rubber-ducky-usb-with-arduino-using-a-digispark-module)

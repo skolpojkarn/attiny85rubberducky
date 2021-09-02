@@ -12,7 +12,7 @@ Execute powershell script placed in a remote location. Following script uses MS1
 ### Tested on:
 **OS**: Windows 10 Pro<br>
 **User**: Normal/Admin<br>
-**Hardware**: ATtiny85 (Chinese)
+**Hardware**: ATtiny85
 
 ### Requirements:
 **Internet Access**
